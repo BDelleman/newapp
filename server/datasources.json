@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "datasource": {
+    "host": "cluster0-8gvew.azure.mongodb.net",
+    "port": 3000,
+    "url": "mongodb+srv://bartd:okeej1993@cluster0-8gvew.azure.mongodb.net/test?retryWrites=true",
+    "database": "Cluster0",
+    "password": "okeej1993",
+    "name": "datasource",
+    "user": "bartd",
+    "connector": "mongodb"
+  }
+}
